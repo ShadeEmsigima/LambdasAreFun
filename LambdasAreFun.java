@@ -4,7 +4,6 @@
  */
 import java.util.ArrayList;
 
-import javax.xml.crypto.Data;
 
 class LambdasAreFun {
     public static void main(String[] args) {
